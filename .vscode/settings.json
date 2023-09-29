@@ -1,0 +1,11 @@
+{
+    "C_Cpp.default.compilerPath": "C:\\Program Files (x86)\\mingw64\\bin\\g++.exe",
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "iostream": "cpp",
+        "fstream": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
